@@ -11,7 +11,7 @@ export const answers = [
     "My reply is no.",
     "My sources say no.",
     "Outlook not so good.",
-    "Outlook good.",
+    "Outlook good.", 
     "Reply hazy, try again.",
     "Signs point to yes.",
     "Very doubtful.",
