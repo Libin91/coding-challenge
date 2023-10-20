@@ -16,7 +16,7 @@ export const answers = [
     "Signs point to yes.",
     "Very doubtful.",
     "Without a doubt.",
-    "Yes.",
+    "Yes.", 
     "Yes - definitely.",
     "You may rely on it.",
   ];
